@@ -1,0 +1,8 @@
+// Compile to code
+go build file.go
+
+// Run (Doesn't need to be built for this to work) 
+go run hello.go
+
+// Needs to be build for this exectuable file to work
+// ./hello
